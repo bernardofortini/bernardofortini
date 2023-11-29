@@ -6,6 +6,7 @@ Sou estudante da escola Trybe!
   <img align="center" alt="JavaScript-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="TypeScript-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+   <img align="center" alt="TypeScript-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/sql-plain.svg">
 </div>
 <div><br>
   <p>
