@@ -6,7 +6,6 @@ Sou estudante da escola Trybe!
   <img align="center" alt="JavaScript-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="TypeScript-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Sql-Icon" height="30" width="40" src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/09/com037-scaled.jpg">
 </div>
 <div><br>
   <p>
